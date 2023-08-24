@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Copywriting
-============================================================
 
 Importance of Ethical and Unbiased Copywriting Practices
 --------------------------------------------------------

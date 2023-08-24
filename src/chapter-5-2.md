@@ -1,5 +1,3 @@
-Personalized Email Marketing with AI
-============================================================================================
 
 Email marketing remains a powerful tool for businesses to reach and engage with their audience. However, generic and impersonal emails can often be ignored or deleted by recipients. This is where AI-powered personalized email marketing comes in.
 

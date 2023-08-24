@@ -1,5 +1,3 @@
-Automated Content Curation and Personalization using AI
-======================================================================================================
 
 Creating high-quality content on a consistent basis is essential for businesses looking to build a strong online presence and engage with their audience. However, this can often be a time-consuming and challenging task. This is where AI-powered automated content curation and personalization comes in.
 
