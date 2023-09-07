@@ -8,3 +8,7 @@ The book also covers some of the ethical considerations involved in the use of A
 Overall, this book is a valuable resource for marketers who want to leverage the latest AI technologies to create more effective marketing messages. By exploring the various techniques and strategies presented in this book, marketers can improve their copywriting skills and produce more engaging content. Whether you are an experienced marketer or just starting, this book has something to offer for everyone looking to explore the intersection of technology and marketing.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
