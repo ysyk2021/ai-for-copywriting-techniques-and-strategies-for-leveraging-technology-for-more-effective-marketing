@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Language Generation and Editing
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting realm of AI-powered language generation and editing in copywriting for effective marketing. Artificial intelligence (AI) offers powerful tools and techniques to enhance the process of creating compelling and persuasive copy. This chapter explores various strategies and methods for leveraging AI in language generation and editing, enabling marketers to optimize their content creation and editing workflows.
 

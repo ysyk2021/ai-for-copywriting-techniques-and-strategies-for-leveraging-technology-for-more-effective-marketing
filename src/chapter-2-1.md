@@ -1,5 +1,4 @@
-Chapter 8: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various tools and technologies available for AI-powered copywriting in the realm of effective marketing. As the field continues to evolve, numerous tools have emerged to assist marketers with enhancing their copywriting processes. This chapter highlights some of the key tools and technologies that can be leveraged to optimize content creation, editing, personalization, and performance tracking.
 

@@ -1,5 +1,4 @@
-Chapter 6: AI-Driven Ad Copywriting and Optimization
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the power of AI in ad copywriting and optimization. AI technology has revolutionized the way marketers create and optimize ad copy, allowing them to reach their target audience more effectively and drive better results. This chapter delves into the techniques and strategies for leveraging AI to craft compelling ad copy and optimize ad campaigns for maximum impact.
 

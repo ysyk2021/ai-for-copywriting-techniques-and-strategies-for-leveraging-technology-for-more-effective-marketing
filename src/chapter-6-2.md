@@ -1,5 +1,4 @@
-Chapter 8: Mitigating Risks and Ensuring Compliance
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical aspects of mitigating risks and ensuring compliance when utilizing artificial intelligence (AI) for copywriting in marketing. While AI offers significant benefits in enhancing marketing effectiveness, it is essential to be mindful of potential risks and adhere to ethical and legal guidelines. This chapter explores strategies and best practices to mitigate risks and ensure compliance throughout the AI-powered copywriting process.
 

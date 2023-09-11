@@ -1,5 +1,4 @@
-Chapter 8: Personalized Email Marketing with AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the power of AI in personalized email marketing. Email marketing remains a crucial tool for businesses to engage with their audience, and AI technology can take it to the next level by delivering highly targeted and customized email campaigns. This chapter delves into the techniques and strategies for leveraging AI to create personalized email marketing that resonates with recipients and drives conversions.
 

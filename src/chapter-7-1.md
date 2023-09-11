@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends in AI for Marketing and Copywriting
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the emerging trends in AI for marketing and copywriting. As technology continues to advance, new AI-powered solutions are constantly being developed to enhance marketing strategies and optimize copywriting efforts. This chapter highlights some of the key trends that are shaping the future of AI in the marketing and copywriting landscape.
 

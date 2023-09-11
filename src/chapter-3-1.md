@@ -1,5 +1,4 @@
-Chapter 4: Using AI for Customer Insights and Segmentation
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the power of AI in uncovering customer insights and segmentation for more effective marketing strategies. AI technologies have revolutionized the way marketers analyze vast amounts of data, enabling them to gain deeper insights into customer behavior, preferences, and needs. By leveraging AI for customer insights and segmentation, businesses can create personalized and targeted marketing campaigns that resonate with their audience. This chapter explores the techniques and strategies for using AI to understand customers better and segment them effectively.
 

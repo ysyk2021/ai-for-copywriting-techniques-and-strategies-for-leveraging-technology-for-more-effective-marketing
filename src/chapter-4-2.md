@@ -1,5 +1,4 @@
-Chapter 7: Automated Content Curation and Personalization Using AI
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the power of automated content curation and personalization through the use of artificial intelligence (AI) in copywriting for effective marketing. As the volume of digital content grows exponentially, marketers face the challenge of delivering relevant and personalized experiences to their target audience. This chapter focuses on leveraging AI to automate content curation and personalize marketing materials, enabling marketers to enhance customer engagement and drive conversions.
 
